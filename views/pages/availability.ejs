@@ -34,6 +34,7 @@
                 <a href="/staff/<%= serviceId %>?version=<%= serviceVersion %>">Edit</a>
               </div>
               <div class="availability-staff__card-wrapper">
+    <%- include('../partials/footer.ejs') %>
                 <div class="staff__card-picture-wrapper">
                   <% if (locals.bookingProfile && bookingProfile.profileImageUrl) { %>
                     <img src="<%= bookingProfile.profileImageUrl %>" />
