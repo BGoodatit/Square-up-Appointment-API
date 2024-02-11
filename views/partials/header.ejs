@@ -3,6 +3,14 @@
       <a href="/services">
         <%if (location.logoUrl) { %>
           <img src="<%= location.logoUrl %>">
+<nav class="top-nav__menu">
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/form">Contact Form</a></li>
+            <li><a href="/services">Schedule a Date</a></li>
+        </ul>
+    </nav>
         <% } else { %>
           <img src="/images/blank-logo-sm.svg">
         <% } %>
