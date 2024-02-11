@@ -25,6 +25,8 @@ const {
  * GET /services
  *
  * This endpoint is in charge of retrieving all of the service items that can be booked for the current location.
+    // Redirect to the availability page with the predefined team member ID and the selected service ID
+    res.redirect(`/availability/K90V1PPQY55MD/${req.query.serviceId}`);
  */
 router.get("/", async (req, res, next) => {
   const cancel = req.query.cancel;
