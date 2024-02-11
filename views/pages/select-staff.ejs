@@ -68,6 +68,7 @@
                       <% } else { %>
                         <%= getStaffInitials(bookableStaff[0].displayName) %>
                           <% }; %>
+    <%- include('../partials/footer.ejs') %>
                   </div>
                   <div class="staff__card-picture-wrapper" id="image-2">
                     <% if (bookableStaff.length>= 2) { %>
