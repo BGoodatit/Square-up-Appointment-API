@@ -33,7 +33,7 @@ const locationId = process.env["SQ_LOCATION_ID"];
  * to create the booking.
  *
  * accepted query params are:
- * `serviceId` - the ID of the service
+  const staffId = "K90V1PPQY55MD"; // Set the team_member_id directly
  * `staffId` - the ID of the staff
  * `startAt` - starting time of the booking
  * `serviceVariationVersion` - the version of the service initially selected
