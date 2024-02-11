@@ -23,6 +23,21 @@ router.use("/availability", availabilityRoute);
 router.use("/contact", contactRoute);
 router.use("/services", servicesRoute);
 router.use("/staff", staffRoute);
+
+
+// New routes for Home, About, and Form pages
+router.get("/", async (req, res, next) => {
+  res.render("pages/home");
+});
+
+router.get("/about", async (req, res, next) => {
+  res.render("pages/about");
+});
+
+router.get("/form", async (req, res, next) => {
+  res.render("pages/form");
+});
+
 router.use("/booking", bookingRoute);
 
 /**
