@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Form</title>
-    <link rel="stylesheet" href="/stylesheets/style.css">
-</head>
+<%- include('../partials/head', {page: "Form"}) %>
 <body>
     <%- include('../partials/header.ejs') %>
+    <main>
+        <!-- Form page content goes here -->
+    </main>
+    <%- include('../partials/footer.ejs') %>
+</body>
+</html>
     <main>
         <h1>Contact Us</h1>
         <form action="/submit-form" method="post">
