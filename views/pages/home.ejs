@@ -1,17 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home Page</title>
-    <link rel="stylesheet" href="/stylesheets/style.css">
-</head>
+<%- include('../partials/head', {page: "Home"}) %>
 <body>
     <%- include('../partials/header.ejs') %>
     <main>
         <h1>Welcome to Our Appointment Booking System</h1>
         <p>This is the home page. You can navigate to different sections using the menu above.</p>
     </main>
-</body>
     <%- include('../partials/footer.ejs') %>
+</body>
 </html>
