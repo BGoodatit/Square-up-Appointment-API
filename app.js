@@ -1,3 +1,9 @@
+// At the top of your app.js file, add the following lines to import the Cinzel font
+
+import "@fontsource/cinzel"; // Defaults to weight 400.
+import "@fontsource/cinzel/400.css"; // Specify weight.
+import "@fontsource/cinzel/400-italic.css"; // Specify weight and style.
+
 /*
 Copyright 2021 Square Inc.
 Licensed under the Apache License, Version 2.0 (the "License");
