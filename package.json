@@ -5,6 +5,7 @@
   "main": "app.js",
   "private": true,
   "scripts": {
+   "pretest": "eslint --ignore-path .gitignore .",
     "seed": "node ./bin/script/seed-data.js generate",
     "clear": "node ./bin/script/seed-data.js clear",
     "start": "nodemon -e js ./bin/www"
@@ -27,6 +28,8 @@
     "square": "^10.0.0"
   },
   "devDependencies": {
-    "eslint": "^7.29.0"
+    "@fontsource-variable/cinzel": "^5.0.8",
+    "eslint": "^7.32.0",
+    "eslint-config-strongloop": "^2.1.0"
   }
 }
