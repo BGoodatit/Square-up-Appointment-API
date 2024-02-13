@@ -4,9 +4,7 @@
 // To this
 require("@fontsource/cinzel");
 import "@fontsource/cinzel/400-italic.css"; // Specify weight and style
-
-/*
-Copyright 2021 Square Inc.
+// Fontsource Cinzel import removed due to module syntax issue in a CommonJS environment
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
