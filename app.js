@@ -1,7 +1,8 @@
 // At the top of your app.js file, add the following lines to import the Cinzel font
-
-import "@fontsource/cinzel"; // Defaults to weight 400
-import "@fontsource/cinzel/400.css"; // Specify weight
+// Change this
+// import "@fontsource/cinzel"; // Defaults to weight 400
+// To this
+require("@fontsource/cinzel");
 import "@fontsource/cinzel/400-italic.css"; // Specify weight and style
 
 /*
