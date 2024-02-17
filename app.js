@@ -2,6 +2,8 @@
 // Change this
 // import "@fontsource/cinzel"; // Defaults to weight 400
 // To this
+require("@fontsource/cinzel");
+import "@fontsource/cinzel/400-italic.css"; // Specify weight and style
 
 /*
 Copyright 2021 Square Inc.
