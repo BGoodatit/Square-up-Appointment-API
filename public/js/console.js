@@ -1,1 +1,1 @@
-console.log("BGood@it😘");
+console.log('BGood@it😘');

@@ -1,12 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
-<%- include('../partials/head', {page: "Home"}) %>
-<body>
+<html class="has-no-js has-scroll-init has-intro-hidden is-loaded is-first-load is-ready" lang="en" data-template="home">
+<%- include('../partials/head', {page: "Home" }) %>
+<body data-module-load data-load-analytics="">
     <%- include('../partials/header.ejs') %>
-    <main>
-        <h1>Welcome to Our Appointment Booking System</h1>
-        <p>This is the home page. You can navigate to different sections using the menu above.</p>
-    </main>
-    <%- include('../partials/footer.ejs') %>
-</body>
+    <div data-load-container>
+      <main class="o-scroll || c-dusted" data-module-scroll data-scroll-main="true">
+        <div class="o-container">
+
+        </main>
+        </div>
+
+     <%- include('../partials/footer.ejs') %>
+
+  </body>
+
 </html>
