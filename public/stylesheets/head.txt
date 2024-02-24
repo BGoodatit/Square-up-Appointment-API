@@ -1,0 +1,128 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- HTML Meta Tags -->
+   <title>Brock Love|<%= page %>|the Boyfriend Experience|Male Escort Atlanta - Escort on Rentmen</title>
+  <meta name="description" content="Discover a transcendent rendezvous with Brock, an esteemed male escort in Atlanta, offering his professional companionship worldwide. Indulge in the unparalleled charm, affection, and care you desire, without any commitments or constraints. Embrace the extraordinary with the ultimate Boyfriend Experience.">
+
+  <!-- Facebook Meta Tags -->
+  <meta property="og:url" content="https://thebfe.com">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="The Boyfriend Experience - Unforgettable Moments with Atlanta's Premier Male Escort">
+  <meta property="og:description" content="Discover a transcendent rendezvous with Brock, an esteemed male escort in Atlanta, offering his professional companionship worldwide. Indulge in the unparalleled charm, affection, and care you desire, without any commitments or constraints. Embrace the extraordinary with the ultimate Boyfriend Experience.">
+  <meta property="og:image" content="https://thebfe.com/images/og.svg">
+
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:domain" content="thebfe.com">
+  <meta property="twitter:url" content="https://thebfe.com">
+  <meta name="twitter:title" content="The Boyfriend Experience - Unforgettable Moments with Atlanta's Premier Male Escort">
+  <meta name="twitter:description" content="Discover a transcendent rendezvous with Brock, an esteemed male escort in Atlanta, offering his professional companionship worldwide. Indulge in the unparalleled charm, affection, and care you desire, without any commitments or constraints. Embrace the extraordinary with the ultimate Boyfriend Experience.">
+  <meta name="twitter:image" content="https://thebfe.com/images/og.svg">
+
+  <!-- Meta Tags Generated via https://www.opengraph.xyz -->
+
+  <title>The Boyfriend Experience</title>
+  <meta property="og:title" content="The Boyfriend Experience - Unforgettable Moments with Atlanta's Premier Male Escort">
+  <meta property="og:site_name" content="The BFE">
+  <meta property="og:url" content="https://thebfe.com">
+  <meta property="og:site_name" content="the Boyfriend Experience">
+  <meta property="og:description" content="Discover a transcendent rendezvous with Brock, an esteemed male escort in Atlanta, offering his professional companionship worldwide. Indulge in the unparalleled charm, affection, and care you desire, without any commitments or constraints. Embrace the extraordinary with the ultimate Boyfriend Experience.">
+  <meta name="Keywords" content="male escort, hired companion, professional boyfriend, rent boy, social escort, atlanta escort, independent escort service">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://thebfe.com/images/og.svg">
+  <link rel="apple-touch-icon" sizes="180x180" href="http://www.thebfe.com/index/%5bL,NC%5d/">
+  <link rel="icon" type="image/png" sizes="32x32" href="http://www.thebfe.com/index/%5bL,NC%5d/">
+  <link rel="icon" type="image/png" sizes="192x192" href="http://www.thebfe.com/index/%5bL,NC%5d/">
+  <link rel="icon" type="image/png" sizes="16x16" href="http://www.thebfe.com/index/%5bL,NC%5d/">
+  <link rel="manifest" href="http://www.thebfe.com/index/%5bL,NC%5d/">
+  <link rel="mask-icon" href="http://www.thebfe.com/index/%5bL,NC%5d/" color="#000000">
+  <meta name="apple-mobile-web-app-title" content="The Boyfriend Experience">
+  <meta name="application-name" content="The Boyfriend Experience">
+  <meta name="msapplication-TileColor" content="#000000">
+  <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+  <meta name="theme-color" content="#BDFF00">
+  <link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://www.thebfe.com/index/%5bL,NC%5d/">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.thebfe.com/index/%5bL,NC%5d/">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.thebfe.com/index/%5bL,NC%5d/">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.thebfe.com/index/%5bL,NC%5d/">
+  <link rel="apple-touch-icon-precomposed" sizes="60x60" href="http://www.thebfe.com/index/%5bL,NC%5d/">
+  <link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://www.thebfe.com/index/%5bL,NC%5d/">
+  <link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://www.thebfe.com/index/%5bL,NC%5d/">
+  <link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://www.thebfe.com/index/%5bL,NC%5d/">
+  <link rel="icon" type="image/png" href="http://www.thebfe.com/index/%5bL,NC%5d/" sizes="196x196">
+  <link rel="icon" type="image/png" href="http://www.thebfe.com/index/%5bL,NC%5d/" sizes="96x96">
+  <link rel="icon" type="image/png" href="http://www.thebfe.com/index/%5bL,NC%5d/" sizes="32x32">
+  <link rel="icon" type="image/png" href="http://www.thebfe.com/index/%5bL,NC%5d/" sizes="16x16">
+  <link rel="icon" type="image/png" href="http://www.thebfe.com/index/%5bL,NC%5d/" sizes="128x128">
+  <link href="../db.onlinewebfonts.com/c/6d93a087f63bf2d7cf32abdb29ba005a0793.css?family=ITC+Busorama" rel="stylesheet" type="text/css">
+  <link href="../fonts.cdnfonts.com/css/neutraface-text.css" rel="stylesheet">
+  <link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+  <meta name="application-name" content="&nbsp;">
+  <meta name="msapplication-TileColor" content="#FFFFFF">
+  <meta name="msapplication-TileImage" content="https://thebfe.com/mstile-144x144.png">
+  <meta name="msapplication-square70x70logo" content="https://thebfe.com/mstile-70x70.png">
+  <meta name="msapplication-square150x150logo" content="https://thebfe.com/mstile-150x150.png">
+  <meta name="msapplication-wide310x150logo" content="https://thebfe.com/mstile-310x150.png">
+  <meta name="msapplication-square310x310logo" content="https://thebfe.com/mstile-310x310.png">
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": "https://thebfe.com/",
+      "name": "The Boyfriend Experience",
+      "description": "Discover a transcendent rendezvous with Brock, an esteemed male escort in Atlanta, offering his professional companionship worldwide. Indulge in the unparalleled charm, affection, and care you desire, without any commitments or constraints. Embrace the extraordinary with the ultimate Boyfriend Experience.",
+      "image": "https://thebfe.com/images/og.svg"
+    }
+  </script>
+  <script type="application/ld+json">
+    {
+      "@context": "https://www.schema.org",
+      "@type": "EscortService",
+      "name": "The Boyfreind Experience",
+      "legalName": "Devore Services LLC",
+      "url": "https://thebfe.com/",
+      "logo": "https://thebfe.com/images/logo.svg",
+      "image": "https://thebfe.com/images/og.svg",
+      "photo": "https://thebfe.com/images/og.svg",
+      "description": "Discover a transcendent rendezvous with Brock, an esteemed male escort in Atlanta, offering his professional companionship worldwide. Indulge in the unparalleled charm, affection, and care you desire, without any commitments or constraints. Embrace the extraordinary with the ultimate Boyfriend Experience. You won't regret it.",
+      "naics": "812990",
+      "email": "nicks.pawls_0f@icloud.com",
+      "telephone": " +1 404-998-0707",
+      "founder": {
+        "@type": "Person",
+        "name": "B. Goodwin",
+        "jobTitle": "Owner"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "905 Juniper Street NE",
+        "addressLocality": "Atlanta",
+        "addressRegion": "GA",
+        "postalCode": "30309",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "33.779160",
+        "longitude": "-84.382339"
+      },
+      "hasMap": "https://goo.gl/maps/ySgNC9xqe9byv7sG6",
+      "currenciesAccepted": "USD",
+      "openingHours": "Mo 00:00-24:00 Tu, We, Th 00:00-24:00 Fr, Sa 00:00-24:00",
+      "paymentAccepted": "Cash, Credit Card, Debit Card, Check, Apple Pay",
+      "priceRange": "$$$",
+      "sameAs": [
+        "https://square.site/book/Y27N30S938M79/boyfriend-experience-atlanta-ga?_savt=d7f72033-df9f-4282-84d9-9eceef9856b4",
+        "https://www.twitter.com/atlcallboy/",
+        "https://www.rent.men/atlcallboy/",
+        "https://friendboy.pro/boys/BrockDevore_",
+        "https://jock2go.eu/atlcallboy/"
+      ]
+    }
+  </script>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg/">
+  <link rel="icon" type="image/png" href="/favicon.png/">
+  <meta name="robots" content="max-image-preview:large">
+  <link rel="stylesheet" href="assets/styles/index.css">
+</head>

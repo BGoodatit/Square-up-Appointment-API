@@ -1,0 +1,21 @@
+// app.js
+import nodemailer from 'nodemailer';
+
+const transporter = nodemailer.createTransport({
+  host: 'smtp.forwardemail.net',
+  port: 465,
+  secure: true,
+  auth: {
+    // TODO: replace `user` and `pass` values from:
+    // <https://forwardemail.net/guides/send-email-with-custom-domain-smtp>
+    user: 'you@example.com',
+    pass: '****************************'
+  },
+});
+
+await transporter.sendMail({
+  from: 'you@example.com',
+  to: 'user@gmail.com',
+  subject: 'hello world',
+  html: '<h1>hello world</h1>'
+});
